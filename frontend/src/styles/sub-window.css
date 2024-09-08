@@ -1,0 +1,6 @@
+.sub-window {
+    min-height: 400px;
+    width: 400px;
+    background-color: aquamarine;
+    text-align: center;
+}
